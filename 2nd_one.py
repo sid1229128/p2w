@@ -1,1 +1,1 @@
-print("Hows the dog?")
+print("How was the dog?")
